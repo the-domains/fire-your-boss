@@ -1,8 +1,7 @@
 name: Fire Your Boss
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.3733228170312941
 typography_spectrum: 0.7603747879620641
-title: Fire Your Boss
 cta:
   domain: null
   bucket: null
@@ -17,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#a3defc'
-    - '#04040c'
-    - '#739608'
-    - '#c3092e'
-    - '#84583b'
-  brandStrength: 0.5
-  lightness: 0.8125
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.17548074130900204
+  lightness: 0.6863242830149829
   saturation: 0.988168483832851
   rhythmicContrast: 0.8240451326128095
 purpose: []
